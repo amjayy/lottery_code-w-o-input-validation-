@@ -12,12 +12,12 @@ def is_number(possible_number):
 print("Welcome to E-Lottery")
 print(" version 2.57 © KSE Studios")
 print("Please enter your six lottery numbers")
-num1 =input()
-num2 = input()
-num3 = input
-num4 = input()
-num5 = input()
-num6 =input()
+num1 = int(input())
+num2 = int(input())
+num3 = int(input())
+num4 = int(input())
+num5 = int(input())
+num6 = int(input())
 
 
 
